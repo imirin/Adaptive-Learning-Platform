@@ -1,0 +1,9 @@
+# Backend
+backend/venv/
+__pycache__/
+
+# Frontend
+frontend/adaptive-ui/node_modules/
+
+# Environment
+.env
